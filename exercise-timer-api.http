@@ -1,0 +1,6 @@
+@ExerciseTimer.API_HostAddress = http://localhost:5255
+
+GET {{ExerciseTimer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
